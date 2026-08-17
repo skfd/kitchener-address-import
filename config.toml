@@ -1,0 +1,121 @@
+[city]
+slug = "kitchener"
+name = "Kitchener"
+# Planning Communities: 55 polygons, point-tested 2026-08-17 per
+# 04-city-onboarding.md at 99.98% of the 132,060 snapshot-20 rows — the
+# Hamilton planning-fabric shape exactly (~2,400 addresses per tile). Name
+# field is PLANNING_COMMUNITY. Runners-up, probed per the Quinte West
+# every-candidate rule: Wards (10 polygons, 100.00% — the coarse backup)
+# and Neighbourhood_Association (23 polygons, 76.01% — a member-org
+# fabric, not a planning fabric; the settlement-trap shape in civic
+# clothing). Municipal_Boundary / Kitchener_Boundary are the future
+# 10-boundary-clipping.md inputs, noted so they aren't re-discovered.
+neighbourhoods_url = "https://services1.arcgis.com/qAo1OsXi67t7XgmS/arcgis/rest/services/Planning_Communities/FeatureServer/0/query?where=1%3D1&outFields=PLANNING_COMMUNITY&outSR=4326&f=geojson"
+neighbourhood_name_field = "PLANNING_COMMUNITY"
+
+[source]
+sqlite_path = "C:/Users/kk/Code/ontario-address-changes/data/kitchener/kitchener.db"
+# Snapshot 20 (2026-08-03); the tracker skipped through the late-June stall
+# window but pulls resumed — 131,912 -> 132,060 rows across July. The most
+# mature tracker config in the family: real key (PROPERTY_UNIT_ID), tuned
+# ignore_fields, status/boundary change classes.
+
+# Per-city projection recipe (multi-city Tier 2), measured against snapshot
+# 20 (2026-08-03, 132,060 rows; identity = PROPERTY_UNIT_ID, a real key).
+[source_fields]
+# CIVIC_NO is a clean integer column (no suffix letters found, 2026-08-17);
+# number_from stays default. 2,335 rows have no number (TODO §8, fourth
+# consumer — worth reading the STATUS mix of those rows during triage).
+# STREET is ALL-CAPS with abbreviated types ("GEORGIAN ST") —
+# expand_street_name() handles the abbreviations for conflation, and
+# TODO §9's title-caser gates any upload (fourth consumer).
+street_from = "street"
+# NOT "full": ADDRESS embeds the unit as a "<unit>-<number>" prefix
+# ("1B-32 ELMSDALE DR") on the ~60k unit rows — the Guelph distinct-count
+# trap at portfolio-record scale. Synthesized instead.
+full_from = "number+street"
+# 45% of rows are units (59,848) — the portfolio high, ahead of Kingston's
+# 40%. UNIT_TYPE rides in props (VERTICAL UNIT 27,301 / UNIT 23,994 /
+# HORIZONTAL UNIT 8,439 / UNKNOWN 2,344; BASE marks the civic rows).
+unit = "unit"
+# Integer ward 1-10, 100% populated on live rows — third ward city after
+# Toronto/Guelph (int like Guelph's; same watch-the-UI-formatting note).
+ward = "props:WARD"
+# STATUS is load-bearing here, not a formality: 4,380 PENDING rows are live
+# in snapshot 20 (plotted-but-unbuilt lots; 94 of the 103 Active->Pending
+# flips on 2026-08-03 rode roll edits, per the tracker's ignore_fields
+# notes). The filter below excludes them from every consumer.
+status = "props:STATUS"
+# No municipality field (single city, no field published — verified against
+# the 12 props keys 2026-08-17); no postcode in props (POSTALCODE lives
+# only in the sibling SiteAddress-style layers); no lo/hi ranges, no class.
+# suffix_range stays undeclared below.
+
+# Measured 2026-08-17 on snapshot 20: 129,725 numbered rows -> 70,113 civic
+# groups keyed (number, street); 3,975 stacked (deepest 552 units at
+# 30 FRANCIS ST S — a condo tower), 58 stacked groups have no unit-less row
+# to elect (lowest identity_key then), 0 groups with >1 unit-less rows —
+# the cleanest stack hygiene in the family. Hamilton's parcel-stack shape
+# at twice Hamilton's unit share.
+[units]
+policy = "collapse-to-civic"
+
+[status]
+active_values = ["ACTIVE"]
+
+[run_defaults]
+# Forest Heights cell (1,464 rows) for first test runs — downtown's 7,642
+# with 552-deep stacks is a stress test, not a smoke test.
+bbox = [43.424, -80.546, 43.436, -80.534]
+overpass_url = "https://overpass-api.de/api/interpreter"
+
+[osm]
+source = "local"
+# Same Ontario PBF as every city in the portfolio.
+pbf_url = "https://download.geofabrik.de/north-america/canada/ontario-latest.osm.pbf"
+# Source-data extent (132,060 rows measured 2026-08-17: lat 43.35428..
+# 43.50118, lon -80.56506..-80.38032) plus a small margin. The City of
+# Waterloo abuts directly north — its checkout's bbox overlaps this
+# rectangle's top edge (both cities' sources stop at their own boundary,
+# so no source overlap, but OSM-side extras at the seam read accordingly).
+# See 10-boundary-clipping.md.
+city_bbox = [43.34, -80.58, 43.51, -80.37]
+extract_dir = "data/osm"
+
+[conflation]
+match_radius_m = 100
+match_near_m = 15
+
+[checks]
+match_far = true
+# suffix_range deliberately absent: no lo_num/hi_num in this source.
+city_duplicate = true
+missing_sample = true
+nearby_street_mismatch = true
+
+[check_params.city_duplicate]
+radius_m = 3.0
+
+[check_params.missing_sample]
+every_nth = 50
+
+[check_params.nearby_street_mismatch]
+radius_m = 20.0
+
+[check_params.match_number_drift]
+slack_m = 2.0
+
+[upload]
+changesets_per_minute = 1
+changeset_comment_template = "{city} Open Data address import, run={run_name}"
+
+[export]
+attribution = "City of Kitchener Open Data"
+# Onboarding only — no proposal exists. Licence position is the strongest
+# of the five OGL clones: attribution is VOLUNTARY under the city's OGL,
+# and the city granted explicit OSM permission (wiki:
+# Waterloo_region/Kitchener_authorization) — effectively cleared even
+# before the LWG variant-review reply. Coordinate with the Waterloo-region
+# mappers (jtracey et al., per the waterloo checkout) before anything
+# visible: it is one mapping community across both cities.
+import_plan = ""

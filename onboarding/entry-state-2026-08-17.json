@@ -1,0 +1,1990 @@
+{
+  "city": "kitchener",
+  "bbox": [
+    43.35,
+    -80.57,
+    43.51,
+    -80.37
+  ],
+  "per_box": {
+    "downtown": {
+      "elements": 1207,
+      "users": [
+        [
+          "jtracey",
+          872
+        ],
+        [
+          "asc",
+          81
+        ],
+        [
+          "permute",
+          59
+        ],
+        [
+          "andrewpmk",
+          22
+        ],
+        [
+          "Mojgan Jadidi",
+          20
+        ],
+        [
+          "Matthew Darwin",
+          17
+        ],
+        [
+          "Malle_Yeno",
+          16
+        ],
+        [
+          "Taraxa",
+          14
+        ]
+      ],
+      "years": [
+        [
+          "2012",
+          37
+        ],
+        [
+          "2013",
+          38
+        ],
+        [
+          "2014",
+          6
+        ],
+        [
+          "2015",
+          2
+        ],
+        [
+          "2016",
+          21
+        ],
+        [
+          "2017",
+          2
+        ],
+        [
+          "2018",
+          1
+        ],
+        [
+          "2019",
+          19
+        ],
+        [
+          "2020",
+          19
+        ],
+        [
+          "2021",
+          452
+        ],
+        [
+          "2022",
+          113
+        ],
+        [
+          "2023",
+          63
+        ],
+        [
+          "2024",
+          258
+        ],
+        [
+          "2025",
+          155
+        ],
+        [
+          "2026",
+          21
+        ]
+      ]
+    },
+    "forest-heights": {
+      "elements": 202,
+      "users": [
+        [
+          "Mojgan Jadidi",
+          178
+        ],
+        [
+          "jtracey",
+          9
+        ],
+        [
+          "galen8183",
+          5
+        ],
+        [
+          "asc",
+          5
+        ],
+        [
+          "Mirkovu",
+          4
+        ],
+        [
+          "hoon",
+          1
+        ]
+      ],
+      "years": [
+        [
+          "2016",
+          178
+        ],
+        [
+          "2020",
+          5
+        ],
+        [
+          "2024",
+          8
+        ],
+        [
+          "2025",
+          11
+        ]
+      ]
+    },
+    "doon-south": {
+      "elements": 206,
+      "users": [
+        [
+          "Mojgan Jadidi",
+          174
+        ],
+        [
+          "lucasbenninger",
+          18
+        ],
+        [
+          "jtracey",
+          10
+        ],
+        [
+          "permute",
+          2
+        ],
+        [
+          "andrewpmk",
+          2
+        ]
+      ],
+      "years": [
+        [
+          "2013",
+          2
+        ],
+        [
+          "2016",
+          174
+        ],
+        [
+          "2020",
+          2
+        ],
+        [
+          "2021",
+          19
+        ],
+        [
+          "2022",
+          2
+        ],
+        [
+          "2024",
+          3
+        ],
+        [
+          "2025",
+          4
+        ]
+      ]
+    }
+  },
+  "users": [
+    [
+      "jtracey",
+      891
+    ],
+    [
+      "Mojgan Jadidi",
+      372
+    ],
+    [
+      "asc",
+      86
+    ],
+    [
+      "permute",
+      61
+    ],
+    [
+      "andrewpmk",
+      24
+    ],
+    [
+      "galen8183",
+      18
+    ],
+    [
+      "lucasbenninger",
+      18
+    ],
+    [
+      "Matthew Darwin",
+      17
+    ],
+    [
+      "Malle_Yeno",
+      16
+    ],
+    [
+      "Taraxa",
+      14
+    ],
+    [
+      "riuri",
+      10
+    ],
+    [
+      "FanaticCarpenter35",
+      7
+    ],
+    [
+      "canadakyle",
+      7
+    ],
+    [
+      "b-jazz-bot",
+      6
+    ],
+    [
+      "Unbeatable101",
+      6
+    ],
+    [
+      "jfvoll",
+      6
+    ],
+    [
+      "TristanA",
+      5
+    ],
+    [
+      "Mirkovu",
+      4
+    ],
+    [
+      "hoon",
+      3
+    ],
+    [
+      "fbax",
+      3
+    ],
+    [
+      "8ob",
+      2
+    ],
+    [
+      "Stuart_L",
+      2
+    ],
+    [
+      "Noro Hibu",
+      2
+    ],
+    [
+      "RadagastWiz",
+      2
+    ],
+    [
+      "Semafekai",
+      2
+    ],
+    [
+      "cswilson252",
+      2
+    ],
+    [
+      "qedi",
+      2
+    ],
+    [
+      "Ben  Glenroy",
+      2
+    ],
+    [
+      "mapman44",
+      1
+    ],
+    [
+      "Jarek \ud83d\udeb2",
+      1
+    ],
+    [
+      "Ma4G",
+      1
+    ],
+    [
+      "cdrini",
+      1
+    ],
+    [
+      "ChrissW-R1",
+      1
+    ],
+    [
+      "UnusualWorld",
+      1
+    ],
+    [
+      "opendcc",
+      1
+    ],
+    [
+      "kainlabs",
+      1
+    ],
+    [
+      "lastcommodore",
+      1
+    ],
+    [
+      "awaterwell",
+      1
+    ],
+    [
+      "Bob Jonkman",
+      1
+    ],
+    [
+      "PinRPG",
+      1
+    ],
+    [
+      "Rps333",
+      1
+    ],
+    [
+      "mueschel",
+      1
+    ],
+    [
+      "Coehill",
+      1
+    ],
+    [
+      "chrismakesstuff",
+      1
+    ],
+    [
+      "cecylia_b",
+      1
+    ],
+    [
+      "Blaziken",
+      1
+    ],
+    [
+      "Metropolitan Movers  12",
+      1
+    ],
+    [
+      "amalakhova_lyft",
+      1
+    ],
+    [
+      "uxMark",
+      1
+    ],
+    [
+      "diginono",
+      1
+    ],
+    [
+      "kevptim",
+      1
+    ],
+    [
+      "CjMalone",
+      1
+    ],
+    [
+      "tkotnala_lyft",
+      1
+    ]
+  ],
+  "years": [
+    [
+      "2012",
+      37
+    ],
+    [
+      "2013",
+      40
+    ],
+    [
+      "2014",
+      6
+    ],
+    [
+      "2015",
+      2
+    ],
+    [
+      "2016",
+      373
+    ],
+    [
+      "2017",
+      2
+    ],
+    [
+      "2018",
+      1
+    ],
+    [
+      "2019",
+      19
+    ],
+    [
+      "2020",
+      26
+    ],
+    [
+      "2021",
+      471
+    ],
+    [
+      "2022",
+      115
+    ],
+    [
+      "2023",
+      63
+    ],
+    [
+      "2024",
+      269
+    ],
+    [
+      "2025",
+      170
+    ],
+    [
+      "2026",
+      21
+    ]
+  ],
+  "kinds": {
+    "node": 840,
+    "way": 775
+  },
+  "changesets": [
+    {
+      "id": 37553961,
+      "user": "Mojgan Jadidi",
+      "created_at": "2016-03-01T20:23:35Z",
+      "changes": 4920,
+      "tags": {
+        "comment": "Adding address ranges for GTHA based on StatCan road network data",
+        "created_by": "JOSM/1.5 (8969 en)",
+        "Discussion": "https://www.mail-archive.com/talk-ca@openstreetmap.org/msg06633.html",
+        "source": "StatCan 92-500-X (http://open.canada.ca)"
+      },
+      "sampled_elements": 174
+    },
+    {
+      "id": 37555329,
+      "user": "Mojgan Jadidi",
+      "created_at": "2016-03-01T21:24:24Z",
+      "changes": 4593,
+      "tags": {
+        "comment": "Adding address ranges for GTHA based on StatCan road network data",
+        "created_by": "JOSM/1.5 (8969 en)",
+        "Discussion": "https://www.mail-archive.com/talk-ca@openstreetmap.org/msg06633.html",
+        "source": "StatCan 92-500-X (http://open.canada.ca)"
+      },
+      "sampled_elements": 166
+    },
+    {
+      "id": 110763651,
+      "user": "jtracey",
+      "created_at": "2021-09-05T19:50:36Z",
+      "changes": 200,
+      "tags": {
+        "changesets_count": "3315",
+        "comment": "various improvements to addresses",
+        "created_by": "iD 2.20.1",
+        "host": "https://www.openstreetmap.org/edit",
+        "imagery_used": "Maxar Premium Imagery (Beta);.geojson data file;Esri World Imagery",
+        "locale": "en",
+        "source": "local knowledge;StatCan 46-26-0001"
+      },
+      "sampled_elements": 55
+    },
+    {
+      "id": 155044518,
+      "user": "jtracey",
+      "created_at": "2024-08-10T00:46:38Z",
+      "changes": 125,
+      "tags": {
+        "changesets_count": "9819",
+        "comment": "addr improvements",
+        "created_by": "iD 2.29.0",
+        "host": "https://www.openstreetmap.org/edit",
+        "imagery_used": "Bing Maps Aerial",
+        "locale": "en-US",
+        "resolved:outdated_tags:noncanonical_brand": "1",
+        "source": "City of Kitchener"
+      },
+      "sampled_elements": 52
+    },
+    {
+      "id": 155047848,
+      "user": "jtracey",
+      "created_at": "2024-08-10T05:51:32Z",
+      "changes": 83,
+      "tags": {
+        "changesets_count": "9821",
+        "comment": "addr improvements",
+        "created_by": "iD 2.29.0",
+        "host": "https://www.openstreetmap.org/edit",
+        "imagery_used": "Bing Maps Aerial",
+        "locale": "en-US",
+        "source": "City of Kitchener"
+      },
+      "sampled_elements": 44
+    },
+    {
+      "id": 124585846,
+      "user": "jtracey",
+      "created_at": "2022-08-07T07:35:54Z",
+      "changes": 1412,
+      "tags": {
+        "comment": "improve addresses",
+        "created_by": "JOSM/1.5 (18531 en)",
+        "source": "local knowledge"
+      },
+      "sampled_elements": 37
+    },
+    {
+      "id": 153305913,
+      "user": "jtracey",
+      "created_at": "2024-06-28T18:22:11Z",
+      "changes": 130,
+      "tags": {
+        "comment": "addr improvements",
+        "created_by": "JOSM/1.5 (19096 en)",
+        "source": "StatCan 46-26-0001"
+      },
+      "sampled_elements": 35
+    },
+    {
+      "id": 102291125,
+      "user": "jtracey",
+      "created_at": "2021-04-05T00:09:14Z",
+      "changes": 100,
+      "tags": {
+        "comment": "Add building and roof levels",
+        "created_by": "StreetComplete 31.1",
+        "locale": "en-US",
+        "source": "survey",
+        "StreetComplete:quest_type": "AddBuildingLevels"
+      },
+      "sampled_elements": 32
+    }
+  ],
+  "conventions": {
+    "sampled": 1615,
+    "keys": [
+      [
+        "addr:housenumber",
+        1615
+      ],
+      [
+        "addr:street",
+        1614
+      ],
+      [
+        "building",
+        749
+      ],
+      [
+        "building:levels",
+        701
+      ],
+      [
+        "source",
+        602
+      ],
+      [
+        "addr:city",
+        541
+      ],
+      [
+        "roof:levels",
+        357
+      ],
+      [
+        "name",
+        348
+      ],
+      [
+        "addr:postcode",
+        332
+      ],
+      [
+        "website",
+        214
+      ],
+      [
+        "amenity",
+        148
+      ],
+      [
+        "phone",
+        93
+      ],
+      [
+        "opening_hours",
+        86
+      ],
+      [
+        "check_date",
+        69
+      ],
+      [
+        "shop",
+        68
+      ],
+      [
+        "level",
+        67
+      ],
+      [
+        "entrance",
+        58
+      ],
+      [
+        "cuisine",
+        53
+      ],
+      [
+        "office",
+        45
+      ],
+      [
+        "addr:unit",
+        44
+      ],
+      [
+        "operator",
+        39
+      ],
+      [
+        "brand",
+        34
+      ],
+      [
+        "wheelchair",
+        26
+      ],
+      [
+        "access",
+        26
+      ],
+      [
+        "brand:wikidata",
+        24
+      ]
+    ],
+    "values": {
+      "addr:city": [
+        [
+          "Kitchener",
+          541
+        ]
+      ],
+      "addr:country": [
+        [
+          "CA",
+          5
+        ]
+      ],
+      "addr:housename": [
+        [
+          "The Tannery",
+          3
+        ]
+      ],
+      "addr:housenumber": [
+        [
+          "25",
+          19
+        ],
+        [
+          "73",
+          19
+        ],
+        [
+          "30",
+          18
+        ],
+        [
+          "50",
+          18
+        ],
+        [
+          "15",
+          17
+        ],
+        [
+          "20",
+          17
+        ],
+        [
+          "11",
+          17
+        ],
+        [
+          "60",
+          17
+        ]
+      ],
+      "addr:postcode": [
+        [
+          "N2G 1A7",
+          22
+        ],
+        [
+          "N2G 1A6",
+          11
+        ],
+        [
+          "N2G 1B1",
+          11
+        ],
+        [
+          "N2G 1B7",
+          9
+        ],
+        [
+          "N2G 2K8",
+          9
+        ],
+        [
+          "N2G 1X5",
+          7
+        ],
+        [
+          "N2H 4Y4",
+          7
+        ],
+        [
+          "N2G 2K4",
+          7
+        ]
+      ],
+      "addr:province": [
+        [
+          "ON",
+          16
+        ],
+        [
+          "Ontario",
+          1
+        ]
+      ],
+      "addr:street": [
+        [
+          "King Street West",
+          156
+        ],
+        [
+          "Queen Street South",
+          85
+        ],
+        [
+          "Victoria Street North",
+          55
+        ],
+        [
+          "Duke Street West",
+          52
+        ],
+        [
+          "Ahrens Street West",
+          46
+        ],
+        [
+          "Weber Street West",
+          45
+        ],
+        [
+          "King Street East",
+          45
+        ],
+        [
+          "Water Street South",
+          41
+        ]
+      ],
+      "addr:unit": [
+        [
+          "1",
+          4
+        ],
+        [
+          "102",
+          4
+        ],
+        [
+          "2",
+          4
+        ],
+        [
+          "A",
+          4
+        ],
+        [
+          "3",
+          3
+        ],
+        [
+          "5",
+          3
+        ],
+        [
+          "103",
+          3
+        ],
+        [
+          "B",
+          2
+        ]
+      ],
+      "building": [
+        [
+          "house",
+          314
+        ],
+        [
+          "detached",
+          183
+        ],
+        [
+          "apartments",
+          63
+        ],
+        [
+          "office",
+          56
+        ],
+        [
+          "retail",
+          43
+        ],
+        [
+          "residential",
+          19
+        ],
+        [
+          "yes",
+          15
+        ],
+        [
+          "church",
+          13
+        ]
+      ],
+      "source": [
+        [
+          "StatCan 92-500-X",
+          385
+        ],
+        [
+          "Bing",
+          154
+        ],
+        [
+          "StatCan 46-26-0001",
+          45
+        ],
+        [
+          "survey",
+          10
+        ],
+        [
+          "CanVec 6.0 - NRCan",
+          6
+        ],
+        [
+          "CanVec_Import_2009",
+          1
+        ],
+        [
+          "local knowledge",
+          1
+        ]
+      ]
+    },
+    "addr_combos": [
+      [
+        "addr:housenumber+addr:street",
+        1029
+      ],
+      [
+        "addr:city+addr:housenumber+addr:postcode+addr:street",
+        266
+      ],
+      [
+        "addr:city+addr:housenumber+addr:street",
+        232
+      ],
+      [
+        "addr:housenumber+addr:postcode+addr:street",
+        26
+      ],
+      [
+        "addr:city+addr:housenumber+addr:postcode+addr:street+addr:unit",
+        19
+      ],
+      [
+        "addr:housenumber+addr:street+addr:unit",
+        15
+      ],
+      [
+        "addr:city+addr:housenumber+addr:postcode+addr:province+addr:street",
+        9
+      ],
+      [
+        "addr:housenumber+addr:postcode+addr:street+addr:unit",
+        3
+      ]
+    ]
+  },
+  "wiki": {
+    "Waterloo_region/Kitchener_authorization": {
+      "exists": true,
+      "chars": 1474,
+      "mentions_address": 0,
+      "mentions_import": 0,
+      "head": "The City of Kitchener's GeoSpatial Data and Analytics department has given explicit ascent to using [https://www.kitchener.ca/en/council-and-city-administration/open-data-licence.aspx Kitchener OGL] data in OSM, subject to attribution in the [[Contributors#Canada|normal page]].\n\n== Email text ==\n<blockquote>\nKitchener's open data licence uses version 1.0 of the Open Government Licence. I have adde"
+    },
+    "Canada:Ontario:Kitchener": {
+      "exists": false
+    }
+  },
+  "recent_changesets": [
+    {
+      "id": "187563772",
+      "user": "rollercoasting",
+      "created_at": "2026-08-17T02:09:22Z",
+      "changes": 41,
+      "comment": "Remove redundant name:ja-Hira (where name:ja is pure kana) and unnecessary *:ja-Kana; add missing alt_name:ja-Hira to match existing alt_name:ja",
+      "source": "OSM Wiki (Multilingual names, Key:name:ja-Hira, BCP 47); review of existing tags",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187562034",
+      "user": "riuri",
+      "created_at": "2026-08-17T00:17:30Z",
+      "changes": 4,
+      "comment": "Created a prep_school and a restaurant; Updated a cannabis shop and a hairdresser shop",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187561892",
+      "user": "riuri",
+      "created_at": "2026-08-17T00:08:48Z",
+      "changes": 4,
+      "comment": "Updated a restaurant and a fast_food; Confirmed a beauty shop and a veterinary",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187561857",
+      "user": "scarapella",
+      "created_at": "2026-08-17T00:05:43Z",
+      "changes": 42,
+      "comment": "updating access point tagging, connecting portages, adding canoe access tags",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187561791",
+      "user": "scarapella",
+      "created_at": "2026-08-17T00:01:44Z",
+      "changes": 21,
+      "comment": "updating access point tagging, connecting portages, adding canoe access tags",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187561746",
+      "user": "chellewalker",
+      "created_at": "2026-08-16T23:58:57Z",
+      "changes": 18,
+      "comment": "Added new locations to Toronto sourced from a news article",
+      "source": "https://foodism.ca/eat-drink/bars-restaurants/best-new-restaurants-toronto/",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187561730",
+      "user": "scarapella",
+      "created_at": "2026-08-16T23:57:58Z",
+      "changes": 80,
+      "comment": "updating access point tagging, connecting portages, adding canoe access tags",
+      "source": "streetlevel imagery;streetside;mapillary",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187556643",
+      "user": "scarapella",
+      "created_at": "2026-08-16T20:47:09Z",
+      "changes": 3,
+      "comment": "adding club=sport to these clubs",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187556541",
+      "user": "scarapella",
+      "created_at": "2026-08-16T20:44:01Z",
+      "changes": 39,
+      "comment": "canoe=yes is more explict way to tag canoe access on a slipway compared to sport=canoe",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187547088",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T17:11:02Z",
+      "changes": 2,
+      "comment": "Specify access to playgrounds",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187546618",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T17:02:00Z",
+      "changes": 2,
+      "comment": "Specify fire hydrant positions",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187546614",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T17:01:57Z",
+      "changes": 2,
+      "comment": "Specify fire hydrant types",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187546608",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T17:01:53Z",
+      "changes": 2,
+      "comment": "Survey small map features",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187546357",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T16:56:58Z",
+      "changes": 2,
+      "comment": "Specify whether there is street parking and what kind",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187546342",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T16:56:42Z",
+      "changes": 1,
+      "comment": "Specify whether there are cycleways",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187546305",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T16:55:52Z",
+      "changes": 32,
+      "comment": "Specify street/place names to addresses",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187546233",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T16:54:17Z",
+      "changes": 2,
+      "comment": "Specify surfaces",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187546228",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T16:54:06Z",
+      "changes": 1,
+      "comment": "Specify whether roads have sidewalks",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187546221",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T16:53:57Z",
+      "changes": 3,
+      "comment": "Specify whether ways are lit",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187546213",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T16:53:50Z",
+      "changes": 1,
+      "comment": "Specify path surfaces",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187546086",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T16:50:16Z",
+      "changes": 32,
+      "comment": "Survey housenumbers",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187546082",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T16:50:11Z",
+      "changes": 35,
+      "comment": "Survey buildings",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187546071",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T16:50:04Z",
+      "changes": 1,
+      "comment": "Add whether public transport stops are lit",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187546062",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T16:49:55Z",
+      "changes": 1,
+      "comment": "Specify whether public transport stops have tactile paving",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187546059",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T16:49:53Z",
+      "changes": 1,
+      "comment": "Specify whether public transport stops have bins",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187546055",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T16:49:50Z",
+      "changes": 1,
+      "comment": "Specify whether public transport stops have benches",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187546039",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T16:49:41Z",
+      "changes": 1,
+      "comment": "Specify whether public transport stops have shelters",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187540386",
+      "user": "Coehill",
+      "created_at": "2026-08-16T14:56:44Z",
+      "changes": 3,
+      "comment": "Specify whether ways are lit",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187540384",
+      "user": "Coehill",
+      "created_at": "2026-08-16T14:56:40Z",
+      "changes": 6,
+      "comment": "Specify road smoothness",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187540359",
+      "user": "Coehill",
+      "created_at": "2026-08-16T14:56:10Z",
+      "changes": 6,
+      "comment": "Specify surfaces",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187540354",
+      "user": "Coehill",
+      "created_at": "2026-08-16T14:56:06Z",
+      "changes": 1,
+      "comment": "Specify whether there are cycleways",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187538890",
+      "user": "rollercoasting",
+      "created_at": "2026-08-16T14:25:11Z",
+      "changes": 24,
+      "comment": "Add comprehensive Japanese localization tags (name:ja, ja-Latn, ja-Kana, ja-Hira) for 12 countries",
+      "source": "transliteration of existing name:ja; ALA-LC Romanization",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187532621",
+      "user": "Ethan Grobin",
+      "created_at": "2026-08-16T12:21:53Z",
+      "changes": 1003,
+      "comment": "MANUAL Cleanup of unsquared four_square in US+CA partially, not all done now",
+      "source": "Esri World Imagery; Bing",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187512312",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-16T00:00:25Z",
+      "changes": 10,
+      "comment": "Specify whether ways are lit",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187512203",
+      "user": "Thomasje",
+      "created_at": "2026-08-15T23:50:40Z",
+      "changes": 16,
+      "comment": "Dutch localizations timezones",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511981",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:37:19Z",
+      "changes": 2,
+      "comment": "Specify whether there are cycleways",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511977",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:36:52Z",
+      "changes": 2,
+      "comment": "Specify whether traffic signals have sound signals",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511976",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:36:50Z",
+      "changes": 2,
+      "comment": "Specify whether traffic signals have a button for pedestrians",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511974",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:36:46Z",
+      "changes": 2,
+      "comment": "Specify whether traffic signals have tactile indications that it's safe to cross",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511909",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:33:03Z",
+      "changes": 1,
+      "comment": "Specify whether parking requires a fee",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511905",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:32:59Z",
+      "changes": 1,
+      "comment": "Specify parking access",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511903",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:32:55Z",
+      "changes": 5,
+      "comment": "Specify road surfaces",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511894",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:32:43Z",
+      "changes": 1,
+      "comment": "Survey if places still exist",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511882",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:32:06Z",
+      "changes": 2,
+      "comment": "Add whether public transport stops are lit",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511881",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:32:04Z",
+      "changes": 2,
+      "comment": "Specify whether public transport stops have tactile paving",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511880",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:32:02Z",
+      "changes": 2,
+      "comment": "Specify whether public transport stops have bins",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511879",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:32:00Z",
+      "changes": 2,
+      "comment": "Specify whether public transport stops have benches",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511878",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:31:58Z",
+      "changes": 2,
+      "comment": "Specify whether public transport stops have shelters",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511681",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:21:34Z",
+      "changes": 13,
+      "comment": "Specify path surfaces",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511679",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:21:30Z",
+      "changes": 4,
+      "comment": "Specify whether crosswalks have tactile paving",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511678",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:21:27Z",
+      "changes": 4,
+      "comment": "Specify whether pedestrian crossings have islands",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511676",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:21:20Z",
+      "changes": 9,
+      "comment": "Specify whether kerbs have tactile paving",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511673",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:21:18Z",
+      "changes": 9,
+      "comment": "Determine the heights of kerbs",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511666",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:20:54Z",
+      "changes": 115,
+      "comment": "Specify street/place names to addresses",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511608",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:17:37Z",
+      "changes": 5,
+      "comment": "Specify fire hydrant positions",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511607",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:17:34Z",
+      "changes": 5,
+      "comment": "Specify fire hydrant types",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511564",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:14:39Z",
+      "changes": 8,
+      "comment": "Survey small map features",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511459",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:10:29Z",
+      "changes": 115,
+      "comment": "Survey housenumbers",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511449",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T23:10:09Z",
+      "changes": 113,
+      "comment": "Survey buildings",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187511068",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T22:51:02Z",
+      "changes": 18,
+      "comment": "Specify whether ways are lit",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187510874",
+      "user": "Coehill",
+      "created_at": "2026-08-15T22:42:19Z",
+      "changes": 1,
+      "comment": "Specify road smoothness",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187510864",
+      "user": "Coehill",
+      "created_at": "2026-08-15T22:41:59Z",
+      "changes": 2,
+      "comment": "Specify paths smoothness",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187509935",
+      "user": "Coehill",
+      "created_at": "2026-08-15T21:58:13Z",
+      "changes": 1,
+      "comment": "Specify paths smoothness",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187508786",
+      "user": "Coehill",
+      "created_at": "2026-08-15T21:16:48Z",
+      "changes": 1,
+      "comment": "Specify parking types",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187508781",
+      "user": "Coehill",
+      "created_at": "2026-08-15T21:16:40Z",
+      "changes": 1,
+      "comment": "Specify road smoothness",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187508768",
+      "user": "Coehill",
+      "created_at": "2026-08-15T21:16:24Z",
+      "changes": 2,
+      "comment": "Specify surfaces",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187508746",
+      "user": "Coehill",
+      "created_at": "2026-08-15T21:15:50Z",
+      "changes": 1,
+      "comment": "Specify whether ways are lit",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187508744",
+      "user": "Coehill",
+      "created_at": "2026-08-15T21:15:43Z",
+      "changes": 2,
+      "comment": "Specify paths smoothness",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187495514",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T15:54:28Z",
+      "changes": 1,
+      "comment": "Specify leaf types",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187494232",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T15:26:20Z",
+      "changes": 6,
+      "comment": "Survey housenumbers",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187494180",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T15:25:09Z",
+      "changes": 4,
+      "comment": "Specify whether there are cycleways",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187494175",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T15:25:00Z",
+      "changes": 4,
+      "comment": "Specify whether roads have sidewalks",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187494139",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T15:24:01Z",
+      "changes": 18,
+      "comment": "Specify path surfaces",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187494138",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T15:23:59Z",
+      "changes": 9,
+      "comment": "Specify whether crosswalks have tactile paving",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187494135",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T15:23:56Z",
+      "changes": 8,
+      "comment": "Specify whether pedestrian crossings have islands",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187494130",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T15:23:53Z",
+      "changes": 16,
+      "comment": "Specify whether kerbs have tactile paving",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187494128",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T15:23:50Z",
+      "changes": 14,
+      "comment": "Determine the heights of kerbs",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187494124",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T15:23:46Z",
+      "changes": 3,
+      "comment": "Specify fire hydrant positions",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187494121",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T15:23:43Z",
+      "changes": 3,
+      "comment": "Specify fire hydrant types",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187494112",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T15:23:33Z",
+      "changes": 4,
+      "comment": "Survey small map features",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187494071",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T15:23:17Z",
+      "changes": 116,
+      "comment": "Specify street/place names to addresses",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187493999",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T15:21:09Z",
+      "changes": 118,
+      "comment": "Survey housenumbers",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187493996",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-15T15:21:03Z",
+      "changes": 119,
+      "comment": "Survey buildings",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187466127",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-14T23:08:23Z",
+      "changes": 1,
+      "comment": "Specify path surfaces",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187466109",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-14T23:07:34Z",
+      "changes": 4,
+      "comment": "Specify whether roads have sidewalks",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187462393",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-14T20:28:46Z",
+      "changes": 1,
+      "comment": "Specify path surfaces",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187456754",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-14T18:02:29Z",
+      "changes": 1,
+      "comment": "Survey opening hours",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187455105",
+      "user": "Qizhen Ruan",
+      "created_at": "2026-08-14T17:21:16Z",
+      "changes": 1,
+      "comment": "fix crossing",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187454395",
+      "user": "Qizhen Ruan",
+      "created_at": "2026-08-14T17:04:36Z",
+      "changes": 1,
+      "comment": "fix sidewalk",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187452355",
+      "user": "cswilson252",
+      "created_at": "2026-08-14T16:22:16Z",
+      "changes": 3,
+      "comment": "add bus stop node",
+      "source": "survey, knowledge",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187452264",
+      "user": "cswilson252",
+      "created_at": "2026-08-14T16:20:13Z",
+      "changes": 4,
+      "comment": "add bus stop node",
+      "source": "survey, knowledge",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187449091",
+      "user": "Hensor",
+      "created_at": "2026-08-14T15:20:38Z",
+      "changes": 23,
+      "comment": "puse un edificio en alaska",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187446125",
+      "user": "scarapella",
+      "created_at": "2026-08-14T14:23:29Z",
+      "changes": 43,
+      "comment": "stubbing out canoe features",
+      "source": "strava heatmap",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187430289",
+      "user": "woodpeck",
+      "created_at": "2026-08-14T09:11:47Z",
+      "changes": 190,
+      "comment": "delete historic=battlefield added by Jobigutenburg, see https://www.openstreetmap.org/changeset/179566483",
+      "source": "",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187423545",
+      "user": "rollercoasting",
+      "created_at": "2026-08-14T06:23:23Z",
+      "changes": 16,
+      "comment": "Add comprehensive Japanese localization (name:ja, ja-Latn, ja-Kana, ja-Hira) and alt_names to major continent and ocean nodes",
+      "source": "standard geographic names; ALA-LC Romanization of Japanese",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187422489",
+      "user": "PinRPG",
+      "created_at": "2026-08-14T05:41:55Z",
+      "changes": 1,
+      "comment": "Added roundabout/circular tag #tomtom #maproulette mpr.lt/c/55941/t/361464973",
+      "source": "streetlevel imagery;streetside;mapillary",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187416974",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-14T00:26:09Z",
+      "changes": 1,
+      "comment": "Specify path surfaces",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187416972",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-14T00:26:02Z",
+      "changes": 1,
+      "comment": "Specify whether pedestrian crossings have islands",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187416970",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-14T00:25:50Z",
+      "changes": 2,
+      "comment": "Determine the heights of kerbs",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    },
+    {
+      "id": "187414499",
+      "user": "i_e_leibowitz",
+      "created_at": "2026-08-13T22:16:40Z",
+      "changes": 1,
+      "comment": "Specify step counts",
+      "source": "survey",
+      "import": "",
+      "import_page": ""
+    }
+  ]
+}
