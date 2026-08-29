@@ -27,8 +27,9 @@ sqlite_path = "C:/Users/kk/Code/ontario-address-changes/data/kitchener/kitchener
 # number_from stays default. 2,335 rows have no number (TODO §8, fourth
 # consumer — worth reading the STATUS mix of those rows during triage).
 # STREET is ALL-CAPS with abbreviated types ("GEORGIAN ST") —
-# expand_street_name() handles the abbreviations for conflation, and
-# TODO §9's title-caser gates any upload (fourth consumer).
+# expand_street_name() handles the abbreviations for conflation, and the
+# engine's title-caser handles the case on export ([export] street_case,
+# 2026-08-29).
 street_from = "street"
 # NOT "full": ADDRESS embeds the unit as a "<unit>-<number>" prefix
 # ("1B-32 ELMSDALE DR") on the ~60k unit rows — the Guelph distinct-count
@@ -119,3 +120,8 @@ attribution = "City of Kitchener Open Data"
 # mappers (jtracey et al., per the waterloo checkout) before anything
 # visible: it is one mapping community across both cities.
 import_plan = ""
+
+# The source shouts. Title-cased on the export path only, so street_raw keeps
+# the source spelling and conflation is untouched. Swept over all 1,809 distinct
+# street names 2026-08-29: no all-caps word survives the step.
+street_case = "title"

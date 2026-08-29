@@ -30,7 +30,8 @@ the portfolio high; deepest stack 552 at 30 Francis St S), collapsed to
 civic with the cleanest stack hygiene in the family; **the status filter is
 load-bearing** — 4,380 `PENDING` rows are excluded in-query; int ward 1-10;
 `full` synthesized because ADDRESS embeds the unit prefix ("1B-32 ELMSDALE
-DR"); ALL-CAPS abbreviated streets (TODO §9 gates upload). Tiles ride the
+DR"); ALL-CAPS abbreviated streets (title-cased on export
+since 2026-08-29, `[export] street_case`). Tiles ride the
 55 Planning Communities at 99.98% (the Hamilton fabric shape; the
 23-polygon Neighbourhood Association layer is a member-org fabric at 76%).
 
